@@ -4,3 +4,6 @@
 [submodule "cleanbites_backend"]
 	path = cleanbites_backend
 	url = https://github.com/mide-dev/cleanbites_backend.git
+[submodule "cleanbites_frontend"]
+	path = cleanbites_frontend
+	url = https://github.com/mide-dev/cleanbites_frontend.git
