@@ -1,4 +1,5 @@
 # Clean Bites - Food Places Recommendations Web Application
+![cleanbites interface](cleanbites_ss.png)
 
 ## Introduction
 
