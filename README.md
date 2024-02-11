@@ -9,7 +9,7 @@ According to the UK Food Standards Agency (FSA), there are nearly 2.4 million ca
 
 1. **Data:**  So far I started off with over 20,000 restaurants in London and I hope to include other cities as well. This data is obtained by scraping publicly available data from Google Maps and cleaning it with python.
 
-2. **Official Health and Hygiene Score:** This score is a critical indicator of the cleanliness and safety of a dining establishment, helping customers make informed choices.
+2. **Official Health and Hygiene Score:** This score is a critical indicator of the cleanliness and safety of a dining establishment. The data is obtained from the official UK health and hygiene inspections. 
 
 3. **Google Places Detail Enrichment:** I've enriched each place by adding data from Google Places API.
 
